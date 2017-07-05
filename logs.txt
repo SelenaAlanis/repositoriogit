@@ -1,0 +1,52 @@
+commit 1932929c7cb1260d08f2b15f6004d5a7c58c81ec
+
+Author: Selena Alanis <selena23_alanisV@hotmail.com>
+
+Date:   Tue Jul 4 11:38:53 2017 -0600
+
+
+    Integracion de bootstrap
+
+
+
+commit 0df7b6a48a6cd4ea142c9503613435d77254e1c3
+
+Author: Selena Alanis <selena23_alanisV@hotmail.com>
+
+Date:   Tue Jul 4 11:32:32 2017 -0600
+
+
+    se agrego footer
+
+
+
+commit d3774d7c898bc61bf7e5af617b3b1c2a1146a0a3
+
+Author: Selena Alanis <selena23_alanisV@hotmail.com>
+
+Date:   Tue Jul 4 11:22:41 2017 -0600
+
+
+    se le agrego una imagen y descripcion
+
+
+
+commit ac3013fe9dbb47f51deacf2a03ce6c3410d5c245
+
+Author: Selena Alanis <selena23_alanisV@hotmail.com>
+
+Date:   Tue Jul 4 11:15:42 2017 -0600
+
+
+    se agrego titulo a la pagina
+
+
+
+commit ed331356c05272f26990fceae1fc268aff809a30
+
+Author: Selena Alanis <selena23_alanisV@hotmail.com>
+
+Date:   Tue Jul 4 11:08:31 2017 -0600
+
+
+    Estructura inicial del proyecto
